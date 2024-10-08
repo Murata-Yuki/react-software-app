@@ -2,7 +2,7 @@ public/ filter=lfs diff=lfs merge=lfs -text
 src/setupTests.js filter=lfs diff=lfs merge=lfs -text
 src/App.js filter=lfs diff=lfs merge=lfs -text
 src/component filter=lfs diff=lfs merge=lfs -text
-# src/server filter=lfs diff=lfs merge=lfs -text
+src/server filter=lfs diff=lfs merge=lfs -text
 src/setupProxy.js filter=lfs diff=lfs merge=lfs -text
 src/App.css filter=lfs diff=lfs merge=lfs -text
 src/css filter=lfs diff=lfs merge=lfs -text
