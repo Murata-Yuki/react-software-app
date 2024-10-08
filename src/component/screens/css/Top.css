@@ -1,0 +1,29 @@
+.top {
+    /* 背景に取得した画像を設定 */
+    background-image: url("https://www.townnews.co.jp/0301/images/a001180395_01.jpg");
+    /* 画像をいっぱいに表示 */
+    background-size: cover;
+    /* 表示する高さを画面の100％に zentai hyouji*/
+    height: 90vh;
+    /* 表示幅を画面の90%に */
+    width: 100%;
+    /* フレックスボックスを指定*/
+    display: flex;
+    /* フレックスアイテムを使って両端から中央に配置*/
+    justify-content: center;
+    /* フレックスアイテムを使って上下から中央に配置 */
+    align-items: center;
+    /* テキストの配置を中央揃えに */
+    text-align: center;
+}
+
+.top_msg {
+    /* 文字色をkuroに */
+    color: black;
+}
+
+.content {
+    width: 90%;
+    margin: 0 auto;
+    text-align: center;
+}

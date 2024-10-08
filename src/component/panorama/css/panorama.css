@@ -1,0 +1,28 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+/* ボタンのスタイル */
+.button {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+/* ボタンが選択されたときのスタイル */
+.button.active {
+    color: #ff0000; /* 選択時の色 */
+}
+
+.dropdown__selected-item {
+    font-size: 24px; /* Adjust the font size as needed */
+    font-weight: bold; /* Make the text bold */
+    color: #333; /* Change the text color if desired */
+    margin-top: 10px; /* Add some spacing above the text */
+    text-align: center; /* Center the text */
+}
+
+.dropdown-item:hover {
+    border: 1px solid #90EE90;
+  }
+  

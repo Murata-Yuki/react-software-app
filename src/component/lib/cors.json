@@ -1,0 +1,8 @@
+[
+    {
+      "origin": ["http://133.2.208.187:3000"],
+      "method": ["GET"],
+      "maxAgeSeconds": 3600
+    }
+  ]
+  

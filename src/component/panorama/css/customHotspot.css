@@ -1,0 +1,16 @@
+/* SumiLab.css */
+.fixed-arrow {
+  width: 150px;
+  height: 150px;
+}
+
+.custom-hotspot-image {
+  width: 120px;
+  height: 120px;
+  object-fit: contain;
+  /* transform: none !important; */
+  cursor: pointer;
+}
+
+
+  
